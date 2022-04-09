@@ -558,6 +558,7 @@ input, select, textarea{
     -webkit-box-align: center;
     align-items: center;
     margin: 15px 0;
+    border: 1px solid #e6e6e6;
 }
 
 .service_box_flex .service_box:nth-child(1),.service_box_flex .service_box:nth-child(2){
