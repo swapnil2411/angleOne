@@ -62,6 +62,7 @@ input, select, textarea{
     /* transform: rotate(-90deg); */
     writing-mode: vertical-lr;
     display: none;
+    z-index: 10;
 }
 
 .float_btn a{
